@@ -147,7 +147,7 @@
   dblp: https://dblp.org/db/conf/icnp/index.html
   deadline:
     - "2026-05-22 23:59"
-  comment: Title / Abstract registration: 2026-05-15 AoE; full paper submission: 2026-05-22 AoE.
+  comment: Abstract registration 2026-05-15 AoE.
   place: Tempe, Arizona, USA
   tags: [NET, CB, A]
 
@@ -172,7 +172,7 @@
   deadline:
     - "2025-09-03 23:59"
     - "2026-03-13 23:59"
-  comment: Two cycles (Summer/Winter); abstract registration required (Summer: 2025-08-27 AoE, Winter: 2026-03-06 AoE).
+  comment: Two cycles (Summer/Winter); abstract registration required (Summer 2025-08-27 AoE, Winter 2026-03-06 AoE).
   place: Austin, Texas, USA
   tags: [NET, SYS, CA, ASTAR]  
 
@@ -184,7 +184,7 @@
   dblp: https://dblp.org/db/conf/sosp/index.html
   deadline:
     - "2026-04-01 23:59"
-  comment: Abstract registration deadline: 2026-03-26 (AoE); full paper submission deadline: 2026-04-01 (AoE), per SOSP 2026 CFP.
+  comment: Abstract registration deadline 2026-03-26 (AoE).
   date: September 29-October 2
   place: Prague, Czechia
   tags: [SYS, CA, ASTAR]
@@ -208,7 +208,7 @@
   deadline:
     - "2025-05-15 23:59"
     - "2025-09-25 23:59"
-  comment: Dual deadlines (AoE). Abstract deadlines: 2025-05-08 and 2025-09-18. EuroSys 2027 official CFP/page was not found in this check, so this entry keeps EuroSys 2026 for reference.
+  comment: Dual deadlines (AoE). Abstract deadlines 2025-05-08 and 2025-09-18. EuroSys 2027 official CFP/page was not found in this check, so this entry keeps EuroSys 2026 for reference.
   date: April 27-30
   place: Edinburgh, UK
   tags: [SYS, NET, CA, A]
@@ -232,7 +232,7 @@
   deadline:
     - "2026-04-15 23:59"
     - "2026-09-09 23:59"
-  comment: ASPLOS 2027 CFP (AoE) lists two cycles: Apr 15, 2026 and Sep 9, 2026. ASPLOS 2027 will be hosted in Crete, Greece.
+  comment: ASPLOS 2027 CFP (AoE) lists two cycles Apr 15, 2026 and Sep 9, 2026. ASPLOS 2027 will be hosted in Crete, Greece.
   date: TBD
   place: Crete, Greece
   tags: [SYS, CA, ASTAR]
