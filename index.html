@@ -74,11 +74,11 @@
                  {% endif %}
                 {% endfor %}
               </div>
-<!-- Row 4: Travel tags -->
+<!-- Row 4: Preference tags -->
               <div class="tag-row">
                 <strong class="tag-row-label">Preference:</strong>
                 {% for type in site.data.types %}
-                 {% if type.tag == "TRAVEL" %}
+                 {% if type.tag == "TRAVEL" or type.tag == "TOP" %}
                  <div class="checkbox">
                    <label>
                      <input type="checkbox" id="{{ type.tag }}-checkbox"> {{ type.name }}
