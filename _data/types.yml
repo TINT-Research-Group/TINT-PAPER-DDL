@@ -21,7 +21,7 @@
 
 # ===== CORE Rank =====
 - name: CORE A*
-  tag: A*
+  tag: ASTAR
 - name: CORE A
   tag: A
 - name: CORE B
