@@ -2,6 +2,6 @@ title: TINT Paper Conference Deadlines
 description: Countdowns to targeted conference deadlines.
 
 domain: "tint-research-group.github.io"
-baseurl: ""
+baseurl: "/TINT-PAPER-DLL"
 
 markdown: kramdown
