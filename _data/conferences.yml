@@ -295,25 +295,7 @@
   tags: [TAI, CA, ASTAR]
 
 # Miscellaneous
-- name: VLDB
-  description: International Conference on Very Large Data Bases
-  year: 2026
-  date: August 31-September 4
-  link: https://vldb.org/2026/
-  dblp: https://dblp.org/db/conf/vldb/index.html
-  deadline:
-    - "2026-04-23 17:00"
-    - "2026-05-23 17:00"
-    - "2026-06-23 17:00"
-    - "2026-07-23 17:00"
-    - "2026-08-23 17:00"
-    - "2026-09-23 17:00"
-    - "2026-10-23 17:00"
-    - "2026-11-23 17:00"
-    - "2026-12-23 17:00"
-  comment: Typically 23rd of each month; 5 p.m. PT
-  place: Boston, MA, USA
-  tags: [MISC, SYS, CA, ASTAR]
+- name: SIGMETRICS
 
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
