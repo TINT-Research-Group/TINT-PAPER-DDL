@@ -1,13 +1,11 @@
 ---
 # ===== Research Area Tags =====
-- name: Network
-  tag: NET
+- name: Network & System
+  tag: NS
 - name: Security & Privacy
   tag: SP
 - name: Artificial Intelligence
   tag: TAI
-- name: System
-  tag: SYS
 - name: Miscellaneous
   tag: MISC
 
