@@ -5,6 +5,19 @@
 # misc: vldb, sigmod, www, stoc, focs
 
 # Security
+- name: USENIX Security
+  description: USENIX Security Symposium
+  year: 2027
+  date: August 11–13
+  link: https://www.usenix.org/conference/usenixsecurity27
+  dblp: https://dblp.org/db/conf/uss/index.html
+  deadline:
+    - "2026-08-25 23:59"
+    - "2027-01-26 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Denver, CO, USA
+  tags: [SP, CA, ASTAR, TOP]
+
 - name: S&P (Oakland)
   year: 2026
   date: May 18-21
