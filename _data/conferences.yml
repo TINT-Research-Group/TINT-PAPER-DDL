@@ -349,7 +349,6 @@
   link: https://neurips.cc/
   dblp: https://dblp.org/db/conf/nips/index.html
   deadline:
-    - "2027-05-05 11:59"
     - "2027-05-07 11:59"
   comment: Waiting for announcement.
   date: TBD
@@ -362,9 +361,8 @@
   link: https://neurips.cc/
   dblp: https://dblp.org/db/conf/nips/index.html
   deadline:
-    - "2026-05-04 11:59"
     - "2026-05-06 11:59"
-  comment: Waiting for announcement.
+  comment: Abstract registration required (2 days before deadline AoE).
   date: December 6-12
   place: Sydney, Australia
   tags: [TAI, CA, ASTAR, TRAVEL]
