@@ -141,7 +141,7 @@
   tags: [NS, CA, ASTAR]
 
 - name: CoNEXT
-  description: International Conference on emerging Networking EXperiments and Technologies
+  description: International Conference on emerging Networking Experiments and Technologies
   year: 2026
   date: December 7-10
   link: https://conferences.sigcomm.org/co-next/2026/
