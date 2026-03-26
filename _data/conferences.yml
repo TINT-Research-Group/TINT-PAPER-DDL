@@ -343,29 +343,29 @@
   place: TBD
   tags: [TAI, CA, ASTAR]
 
-- name: NeurIPS (TBA)
-  description: Conference on Neural Information Processing Systems
-  year: 2027
-  link: https://neurips.cc/
-  dblp: https://dblp.org/db/conf/nips/index.html
-  deadline:
-    - "2027-05-07 11:59"
-  comment: Waiting for announcement.
-  date: TBD
-  place: TBD
-  tags: [TAI, CA, ASTAR]
+# - name: NeurIPS (TBA)
+#   description: Conference on Neural Information Processing Systems
+#   year: 2027
+#   link: https://neurips.cc/
+#   dblp: https://dblp.org/db/conf/nips/index.html
+#   deadline:
+#     - "2027-05-07 11:59"
+#   comment: Waiting for announcement.
+#   date: TBD
+#   place: TBD
+#   tags: [TAI, CA, ASTAR]
 
-- name: NeurIPS
-  description: Conference on Neural Information Processing Systems
-  year: 2026
-  link: https://neurips.cc/
-  dblp: https://dblp.org/db/conf/nips/index.html
-  deadline:
-    - "2026-05-06 11:59"
-  comment: Abstract registration required (2 days before deadline AoE).
-  date: December 6-12
-  place: Sydney, Australia
-  tags: [TAI, CA, ASTAR, TRAVEL]
+# - name: NeurIPS
+#   description: Conference on Neural Information Processing Systems
+#   year: 2026
+#   link: https://neurips.cc/
+#   dblp: https://dblp.org/db/conf/nips/index.html
+#   deadline:
+#     - "2026-05-06 11:59"
+#   comment: Abstract registration required (2 days before deadline AoE).
+#   date: December 6-12
+#   place: Sydney, Australia
+#   tags: [TAI, CA, ASTAR, TRAVEL]
 
 # Miscellaneous
 - name: SIGMOD
