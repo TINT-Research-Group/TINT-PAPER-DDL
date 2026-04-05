@@ -392,16 +392,6 @@
   place: Dubai, United Arab Emirates
   tags: [MISC, CA, ASTAR]
 
-- name: The Web Conference
-  description: International Conference on the World Wide Web
-  year: 2027
-  date: TBD
-  link: https://www2027.thewebconf.org
-  deadline: TBD
-  comment: Abstract registration required (7 days before deadline AoE).
-  place: Dublin, Ireland
-  tags: [MISC, CA, ASTAR]
-
 #- name: STOC
   #description: ACM Symposium on Theory of Computing
   #year: 2026
