@@ -14,7 +14,7 @@ This repository lists deadline countdowns for targeted conferences.
 3. 按仓库的数据格式填写/更新会议信息（如名称、年份、链接、deadline、地点、标签等）
 4. 提交修改
 
-> More detail can be found from [URL](https://tint-research-group.github.io/TINT-PAPER-DLL/)
+> More detail can be found from [URL](https://tint-research-group.github.io/TINT-PAPER-DDL/)
 
 ### Conference entry record
 
