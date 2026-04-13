@@ -60,12 +60,25 @@
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
   year: 2026
-  date: February 23-27
+  date: February 23-26
   link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
   dblp: https://dblp.org/db/conf/ndss/index.html
   deadline:
     - "2025-04-23 23:59"
     - "2025-08-06 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: San Diego, CA, USA
+  tags: [SP, CA, ASTAR, TOP]
+
+- name: NDSS
+  description: ISOC Network and Distributed System Security Symposium
+  year: 2027
+  date: February 23-27
+  link: https://www.ndss-symposium.org/ndss2026/submissions/call-for-papers/
+  dblp: https://dblp.org/db/conf/ndss/index.html
+  deadline:
+    - "2026-05-06 23:59"
+    - "2026-08-19 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
   place: San Diego, CA, USA
   tags: [SP, CA, ASTAR, TOP]
