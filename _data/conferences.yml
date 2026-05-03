@@ -335,10 +335,9 @@
   year: 2027
   link: https://aaai.org/conference/aaai/
   dblp: https://dblp.org/db/conf/aaai/index.html
-  deadline:
-    - "2026-07-25 23:59"
-    - "2026-08-01 23:59"
-  comment: Waiting for announcement.
+  deadline:    
+    - "2026-07-28 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
   date: February 16-23
   place: Montréal, Québec, Canada
   tags: [TAI, CA, ASTAR]
