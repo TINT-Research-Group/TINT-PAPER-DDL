@@ -19,6 +19,19 @@
   tags: [SP, CA, ASTAR, TOP]
 
 - name: S&P (Oakland)
+  year: 2027
+  date: May 18-21
+  description: IEEE Symposium on Security and Privacy
+  link: https://sp2026.ieee-security.org/
+  dblp: https://dblp.org/db/conf/sp/index.html
+  deadline:
+    - "2026-06-11 23:59"
+    - "2026-11-10 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Montreal, CANADA
+  tags: [SP, CA, ASTAR, TOP]
+
+- name: S&P (Oakland)
   year: 2026
   date: May 18-21
   description: IEEE Symposium on Security and Privacy
@@ -80,7 +93,7 @@
     - "2026-05-06 23:59"
     - "2026-08-19 23:59"
   comment: Abstract registration required (1 week before deadline AoE).
-  place: San Diego, CA, USA
+  place: Seoul, Korea
   tags: [SP, CA, ASTAR, TOP]
 
 - name: RAID
@@ -265,6 +278,19 @@
   place: Edinburgh, UK
   tags: [NS, CA, A, TRAVEL]
 
+- name: EuroSys
+  description: European Conference on Computer Systems
+  year: 2027
+  link: https://2027.eurosys.org/
+  dblp: https://dblp.org/db/conf/eurosys/index.html
+  deadline:
+    - "2026-05-14 23:59"
+    - "2026-09-24 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  date: April 19-23
+  place: Rabat, Morocco
+  tags: [NS, CA, A, TRAVEL]
+
 - name: MLSys
   description: Conference on Machine Learning and Systems
   year: 2026
@@ -393,6 +419,20 @@
 #   tags: [TAI, CA, ASTAR, TRAVEL]
 
 # Miscellaneous
+- name: SIGMOD
+  description: ACM SIGMOD/PODS International Conference on Management of Data
+  year: 2027
+  link: https://2027.sigmod.org/
+  dblp: https://dblp.org/db/conf/sigmod/index.html
+  deadline:
+    - "2026-01-17 23:59"
+    - "2026-04-17 23:59"
+    - "2026-07-17 23:59"
+    - "2026-10-17 23:59"
+  comment: Abstract registration required (1 week before deadline AoE).
+  place: Huntington Beach, CA, USA
+  tags: [MISC, NS, CA, ASTAR]
+
 - name: SIGMOD
   description: ACM SIGMOD/PODS International Conference on Management of Data
   year: 2026
